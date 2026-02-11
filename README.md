@@ -32,8 +32,7 @@ I'm passionate about solving real-world problems with code and continuously expl
 
 ## 🌟 Featured Projects
 
-- [Code2Image](https://github.com/ankitydv098/Code2Image)  
-  *Turn your code into beautiful images for effortless sharing.*
+
 
 - [Network Packet Inspector](https://github.com/ankitydv098/Network-Packet-Inspector)  
   *A tool to inspect and analyze network packets for security and learning.*
