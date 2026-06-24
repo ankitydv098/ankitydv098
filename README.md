@@ -52,3 +52,7 @@ I'm passionate about solving real-world problems with code and continuously expl
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankitydv098?theme=dark&font=Karma&ext=heatmap)
