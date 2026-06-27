@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Ankit Kumar!
 
-🎓 **3rd Year CSE Student | Aspiring Web Developer**
+🎓 **4th Year CSE Student | Aspiring DSA Coding**
 
 ---
 > 🚀 Coding with a dash of curiosity and a sprinkle of fun!
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about solving real-world problems with code and continuously exploring new technologies. Currently, I am a Final-year Computer Science Engineering student, aspiring to make a mark as a **Web Developer**.
+I'm passionate about solving real-world problems with code and continuously exploring new technologies. Currently, I am a Final-year Computer Science Engineering student, aspiring to make a mark as a **dsa enthusiastr**.
 
 ---
 
@@ -24,6 +24,7 @@ I'm passionate about solving real-world problems with code and continuously expl
 ---
 
 ## 🏆 Achievement
+  **PR HEAD OF ISTE SOCIETY**
 
 🥈 **2nd Place** in Inter-College Hackathon (Prayukti) among 200+ participants!  
 🔗 [LeetCode Profile](https://leetcode.com/u/ankitydv098/) — Check out my algorithm practice and challenges.
