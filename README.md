@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about solving real-world problems with code and continuously exploring new technologies. Currently, I am a third-year Computer Science Engineering student, aspiring to make a mark as a **Web Developer**.
+I'm passionate about solving real-world problems with code and continuously exploring new technologies. Currently, I am a Final-year Computer Science Engineering student, aspiring to make a mark as a **Web Developer**.
 
 ---
 
