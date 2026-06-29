@@ -13,13 +13,14 @@
 I'm passionate about solving real-world problems with code and continuously exploring new technologies. Currently, I am a Final-year Computer Science Engineering student, aspiring to make a mark as a **dsa enthusiastr**.
 
 ---
-
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js
-- **Backend/Scripting:** Python, Java (DSA), Bash
-- **DevOps & Tools:** Git, GitHub, Linux, Docker, Nmap, Burp Suite
+- **Programming Languages:** Java, Python, JavaScript, Bash
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+- **Frontend:** HTML5, CSS3, React.js, Tailwind CSS
 - **Database:** MySQL
+- **Cloud:** AWS (EC2, S3, IAM, VPC)
+- **DevOps & Tools:** Git, GitHub, Linux, Docker, Nmap, Burp Suite
 
 ---
 
