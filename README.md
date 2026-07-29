@@ -40,6 +40,7 @@ I'm passionate about solving real-world problems with code and continuously expl
   *A tool to inspect and analyze network packets for security and learning.*
 
 ---
+[![An image of @ankitydv098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitydv098)](https://holopin.io/@ankitydv098)
 
 ## 📫 Let’s Connect
 
