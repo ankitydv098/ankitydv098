@@ -128,14 +128,3 @@ I'm passionate about solving real-world problems with code and continuously expl
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/ankitydv098/ankitydv098/output/github-contribution-grid-snake.svg)
-
-<sub>*(Needs a one-time GitHub Action setup — see note below)*</sub>
-
-</div>
-
-<div align="center">
-<i>Thanks for stopping by — feel free to reach out and connect! ⭐</i>
-</div>
